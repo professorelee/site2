@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
+
+My name is Professor Ernesto Lee | Broward College
+Graduate of Old Dominion University and Virginia Tech
+Currently a PhD Student at Nova Southeastern University
 
 You can use the [editor on GitHub](https://github.com/professorelee/site2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
